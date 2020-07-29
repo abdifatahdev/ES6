@@ -5,7 +5,7 @@
 //binding this keyword fixes no matter how we call walk func in the object
 // it will always return global object which is window object
 const person = {
-  name: "Mosh",
+  name: "Abdifatah",
   walk() {
     console.log(this);
   },
